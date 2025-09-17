@@ -14,6 +14,7 @@ export default defineConfig({
   description: "您的下一个选择",
   lastUpdated: true,
   base: '/Lunar_X_docs',
+  lang: "zh-CN",
   head: [
       ['link', { rel: 'icon', href: '/logo.png' }]
   ],
