@@ -13,7 +13,7 @@ export default defineConfig({
   title: "Lunar Docs",
   description: "您的下一个选择",
   lastUpdated: true,
-  base: '/',
+  base: '/Lunar_X_docs',
   head: [
       ['link', { rel: 'icon', href: '/logo.png' }]
   ],
