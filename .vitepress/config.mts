@@ -21,6 +21,17 @@ export default defineConfig({
   themeConfig: {
     nav,
     logo: '/logo.png',
+    lastUpdatedText: '最后更新于',
+    docFooter: { 
+      prev: '上一页', 
+      next: '下一页' 
+    },
+    outlineTitle: '本页目录',
+    returnToTopLabel: '回到顶部',
+    sidebarMenuLabel: '菜单',
+    darkModeSwitchLabel: '主题',
+    lightModeSwitchTitle: '切换到浅色模式', 
+    darkModeSwitchTitle: '切换到深色模式',
      footer: { 
       message: 'Released under the GPL 3 License.', 
       copyright: 'Copyright © 2021-2025 MacroSTAR Studio'
