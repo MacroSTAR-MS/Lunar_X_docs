@@ -36,7 +36,6 @@ Lunar X 框架的配置信息在两个文件中，实现了核心配置与权限
   "bot_name_en": "Lunar X",
   "bot_qq": 123456789,
   "log_level": "INFO",
-  "openai_key": "",
   "root_user": 1348472639,
   "token": "114514",
   "trigger_keyword": "$",
